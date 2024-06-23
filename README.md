@@ -1,4 +1,4 @@
-# Project Name
+# Manufac Assignment using React + Typescript and Mantine Library
 
 To run this project, follow these steps:
 
